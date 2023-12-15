@@ -20,8 +20,9 @@ void AMovingPlatform::BeginPlay()
 
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
-{
+{	
 	Super::Tick(DeltaTime);
-
+	DynamicLocation.Y++;
+	SetActorLocation(DynamicLocation);
 }
 
