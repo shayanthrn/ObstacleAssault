@@ -23,5 +23,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	FVector DynamicLocation = FVector(-13140.000000,-12550.000000,4876.000000);
+	UPROPERTY(EditAnywhere)
+	FVector velocity = FVector(50,0,0);
+
+	FVector startLocation;
 };
