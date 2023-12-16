@@ -24,7 +24,7 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-	FVector velocity = FVector(1000,0,0);
+	FVector velocity = FVector(100,0,0);
 
 	UPROPERTY(EditAnywhere)
 	double moveDistance = 500;
