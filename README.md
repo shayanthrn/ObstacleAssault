@@ -4,4 +4,4 @@ featuring a challenging obstacle course
 with moving obstacles.
 
 Click!
-[![Watch the Demo](https://img.youtube.com/vi/TMxZIXZPQg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TMxZIXZPQg4)
+[![Watch the Demo](https://img.youtube.com/vi/TMxZIXZPQg4/sddefault.jpg)](https://www.youtube.com/watch?v=TMxZIXZPQg4)
