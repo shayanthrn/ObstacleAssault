@@ -1,2 +1,7 @@
 # ObstacleAssault
-Obstacle Assault, 3rd Person game developed by Unreal Engine 5
+Crafted a 3rd person in Unreal Engine 5,
+featuring a challenging obstacle course
+with moving obstacles.
+
+Click!
+[![Watch the Demo](https://img.youtube.com/vi/TMxZIXZPQg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TMxZIXZPQg4)
